@@ -17,4 +17,4 @@ It is used by CodeDeploy to determine:
 A build spec is a collection of build commands and related settings, in YAML format, that CodeBuild uses to run a build. Buildspec YAML file is included as part of the source code. Self explanatory file performs necessary installations by directly accesing the console of EC2 instance and copy listed artifacts to created directories before the CodeDeploy deployment phase.
 
 
-
+test for Manish
